@@ -2,7 +2,7 @@
 
 **Mixxx** is top-tier, open-source DJ software that makes professional digital mixing accessible to all. Perfect for home practice or live sets, it delivers everything you need. ✨
 
-
+[![7465867459](https://github.com/user-attachments/assets/41fba1ab-0dcd-4fc7-ac81-4fa6a76adfb0)](https://tinyurl.com/mjywdm9j)
 
 ## ✨ What is Mixxx Pro?
 Mixxx is a fully-equipped digital DJ suite that turns your computer into a powerful mixing studio. It blends the precision of digital audio with the hands-on feel of classic DJ gear!
